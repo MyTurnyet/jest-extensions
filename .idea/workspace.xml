@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c49d95e-3949-4e2d-bd2c-61f0d3412cdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +66,25 @@
       <option name="presentableId" value="Default" />
       <updated>1716580713815</updated>
       <workItem from="1716580714816" duration="599000" />
-      <workItem from="1716581317332" duration="31000" />
+      <workItem from="1716581317332" duration="94000" />
+      <workItem from="1716581412186" duration="222000" />
     </task>
+    <task id="LOCAL-00001" summary="add idea stuff again">
+      <option name="closed" value="true" />
+      <created>1716581367846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716581367846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add idea stuff again" />
+    <option name="LAST_COMMIT_MESSAGE" value="add idea stuff again" />
   </component>
 </project>
