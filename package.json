@@ -1,0 +1,22 @@
+{
+  "name": "react-extensions",
+  "version": "1.0.0",
+  "description": "Jest extensions for use with react applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest",
+    "react",
+    "testing",
+    "rtl",
+    "quality"
+  ],
+  "author": "Paige Watson",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
