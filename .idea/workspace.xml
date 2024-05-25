@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c49d95e-3949-4e2d-bd2c-61f0d3412cdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/add.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="0c49d95e-3949-4e2d-bd2c-61f0d3412cdc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MyTurnyet"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "git@github.com:MyTurnyet/react-extensions.git",
@@ -77,7 +77,7 @@
       <updated>1716580713815</updated>
       <workItem from="1716580714816" duration="599000" />
       <workItem from="1716581317332" duration="94000" />
-      <workItem from="1716581412186" duration="3293000" />
+      <workItem from="1716581412186" duration="3669000" />
     </task>
     <task id="LOCAL-00001" summary="add idea stuff again">
       <option name="closed" value="true" />
@@ -103,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716581839100</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="publish base package">
+      <option name="closed" value="true" />
+      <created>1716584732983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716584732983</updated>
+    </task>
+    <task id="LOCAL-00005" summary="publish base package">
+      <option name="closed" value="true" />
+      <created>1716584775149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716584775149</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +130,7 @@
     <MESSAGE value="add idea stuff again" />
     <MESSAGE value="add README.md" />
     <MESSAGE value="add tsup" />
-    <option name="LAST_COMMIT_MESSAGE" value="add tsup" />
+    <MESSAGE value="publish base package" />
+    <option name="LAST_COMMIT_MESSAGE" value="publish base package" />
   </component>
 </project>
