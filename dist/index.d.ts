@@ -1,3 +1,4 @@
-declare function add(a: number, b: number): number;
+declare const failResponse: (message: string) => jest.CustomMatcherResult;
+declare const passResponse: () => jest.CustomMatcherResult;
 
-export { add };
+export { failResponse, passResponse };

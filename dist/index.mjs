@@ -1,8 +1,18 @@
-// src/index.ts
-function add(a, b) {
-  return a + b;
-}
+// src/matchers/responses.ts
+var failResponse = (message) => {
+  return {
+    pass: false,
+    message: () => message ? message : "fails by .fail() assertion"
+  };
+};
+var passResponse = () => {
+  return {
+    pass: true,
+    message: () => ""
+  };
+};
 export {
-  add
+  failResponse,
+  passResponse
 };
 //# sourceMappingURL=index.mjs.map
