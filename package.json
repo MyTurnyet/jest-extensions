@@ -1,12 +1,14 @@
 {
-  "name": "@software-as-craft/react-extensions",
+  "name": "@software-as-craft/jest-extensions",
   "version": "1.0.0",
   "description": "Jest extensions for use with react applications",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
-  "types": "./dist/index.d.ts",
+  "types": "types/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "types/index.d.ts",
+    "all.js"
   ],
   "scripts": {
     "build": "tsup",
@@ -17,10 +19,15 @@
     "react",
     "testing",
     "rtl",
-    "quality"
+    "quality",
+    "matchers",
+    "test",
+    "testing",
+    "assertions"
   ],
-  "author": "Paige Watson",
-  "license": "ISC",
+  "author": "Paige Watson <paige.watson@softwareascraft.com> (paige.watson@softwareascraft.com)",
+  "license": "MIT",
+  "repository": "https://github.com/MyTurnyet/jest-extensions",
   "devDependencies": {
     "@testing-library/react": "^15.0.7",
     "@types/jest": "^29.5.12",
